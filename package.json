@@ -1,0 +1,13 @@
+{
+  "name": "log-notify",
+  "version": "1.0.0",
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "node-notifier": "^5.2.1",
+    "tail": "^1.2.3"
+  },
+  "bin": {
+      "log-notify": "./index.js"
+  }
+}
